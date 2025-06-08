@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="VetKzjbRoYOWJcP3zysH" name="Page-1">
-        <mxGraphModel dx="4263" dy="3048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2693" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -299,7 +299,7 @@
                 <mxCell id="176" value="Бюджет клиента" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="351.67" y="770" width="103" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="177" value="Провести клиента в течении поездки&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="177" value="Сопроводить клиента в поездке" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="866.67" y="900" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="179" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -326,12 +326,12 @@
                 </mxCell>
                 <mxCell id="183" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="896.67" y="870" as="sourcePoint"/>
-                        <mxPoint x="896.67" y="900" as="targetPoint"/>
+                        <mxPoint x="927.5" y="870" as="sourcePoint"/>
+                        <mxPoint x="927.5" y="900" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="184" value="Регламент компании" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="856.67" y="840" width="60" height="30" as="geometry"/>
+                <mxCell id="184" value="Регламент обработки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="904.17" y="830" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="185" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="177" target="186" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -343,7 +343,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="186" value="Обработать обратную связь" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="186" value="Реализовать повторную продажу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1116.67" y="990" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="187" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -355,26 +355,26 @@
                 <mxCell id="188" value="Сотрудник отдела сопровождения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="846.67" y="1010" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="189" value="Обратная связь" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="986.67" y="900" width="60" height="30" as="geometry"/>
+                <mxCell id="189" value="Завершенная поездка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="890" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="190" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1186.67" y="940" as="sourcePoint"/>
-                        <mxPoint x="1186.67" y="990" as="targetPoint"/>
+                        <mxPoint x="1176.17" y="940" as="sourcePoint"/>
+                        <mxPoint x="1176.17" y="990" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="191" value="Регламент компании" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1126.67" y="910" width="120" height="30" as="geometry"/>
+                <mxCell id="191" value="Маркетинговая стратегия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1116.67" y="900" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="192" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1166.67" y="1090" as="sourcePoint"/>
-                        <mxPoint x="1166.67" y="1050" as="targetPoint"/>
+                        <mxPoint x="1176.17" y="1090" as="sourcePoint"/>
+                        <mxPoint x="1176.17" y="1050" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="193" value="Сотрудник отдела аналитики" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1131.67" y="1100" width="60" height="30" as="geometry"/>
+                <mxCell id="193" value="Сотрудник отдела продаж" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1146.67" y="1100" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="194" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="186" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -616,15 +616,6 @@
                 </mxCell>
                 <mxCell id="246" value="Запросить у клиента обратную связь по завершении тура" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1042.5" y="1770" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="247" value="Анкета обратной связи" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="926.67" y="830" width="60" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="248" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="956.3100000000001" y="870" as="sourcePoint"/>
-                        <mxPoint x="956.3100000000001" y="900" as="targetPoint"/>
-                    </mxGeometry>
                 </mxCell>
                 <mxCell id="250" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="237" target="246" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
